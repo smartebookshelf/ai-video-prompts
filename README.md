@@ -1,5 +1,15 @@
 # 30 Free AI Video Prompts for Veo, Sora, Kling & Runway
 
+<p align="center"><img src="banner.svg" alt="30 free AI video prompts for Veo, Sora, Kling and Runway" width="100%"></p>
+
+<p align="center">
+<a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-f2762e"></a>
+<img alt="Free" src="https://img.shields.io/badge/price-free-1f7a6e">
+<img alt="Works with Veo, Sora, Kling, Runway" src="https://img.shields.io/badge/works%20with-Veo%20%7C%20Sora%20%7C%20Kling%20%7C%20Runway-24304a">
+<a href="https://github.com/smartebookshelf/ai-video-prompts/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/smartebookshelf/ai-video-prompts?style=flat&color=ffb347"></a>
+<a href="https://bestbookdotcom.gumroad.com/l/ai-video-vault"><img alt="Smart Ebook Shelf" src="https://img.shields.io/badge/by-Smart%20Ebook%20Shelf-ff8a3d"></a>
+</p>
+
 **30 copy-paste AI video prompts** that look cinematic instead of "AI-made", for **Google Veo, OpenAI Sora, Kling, Runway, Hailuo, Pika and Luma**. Plus the simple **5-part formula** behind them, so you can write your own.
 
 > From the creator of **[The AI Video Vault](https://bestbookdotcom.gumroad.com/l/ai-video-vault)**: 1,200+ AI video prompts, 40 consistent AI hosts and 61 viral scripts.
@@ -141,6 +151,39 @@ Write one **character line** and paste it into every prompt, word for word:
 > A woman in her 30s with short curly black hair, round gold glasses, a mustard-yellow sweater and a small silver nose ring.
 
 Then only change the **action, camera and setting**. Many tools also let you start from a reference image of the character, which keeps the face even more consistent.
+
+---
+
+## FAQ
+
+### How do I write a good AI video prompt?
+
+Use the 5-part formula: subject, one clear action, camera shot and movement, light, and style with the format (9:16 or 16:9). Vague prompts are the main reason clips look "AI-made".
+
+### Which AI video generator is best?
+
+It depends on the clip. Veo, Sora, Kling and Runway all do well with clear prompts. Test the same prompt in two tools and keep the one that fits your style and budget.
+
+### How do I keep the same character in every AI video?
+
+Write one detailed character line and paste it word for word into every prompt, then change only the action, camera and setting. Starting from a reference image helps even more.
+
+### Can I use these prompts for YouTube Shorts and TikTok?
+
+Yes. Use the 9:16 prompts for Shorts, Reels and TikTok, and keep each clip 5–8 seconds before editing them together.
+
+---
+
+## More free AI resources
+
+- **[Free Claude Skills: viral hooks, email replies and client proposals](https://github.com/smartebookshelf/free-claude-skills)**
+- **[30 free AWS Cloud Practitioner (CLF-C02) practice questions + cheat sheet](https://github.com/smartebookshelf/aws-cloud-practitioner-practice-questions)**
+- **[20 free ChatGPT prompts for freelancers](https://github.com/smartebookshelf/chatgpt-prompts-for-freelancers)**
+- **[20 free AI prompts for teachers](https://github.com/smartebookshelf/ai-prompts-for-teachers)**
+- **[20 free ChatGPT prompts to make money online](https://github.com/smartebookshelf/chatgpt-prompts-to-make-money)**
+- **[2 free no-code AI agent templates](https://github.com/smartebookshelf/no-code-ai-agent-templates)**
+- **[Which AI model should I use: ChatGPT vs Claude vs Gemini](https://github.com/smartebookshelf/which-ai-model-should-i-use)**
+- **[All Smart Ebook Shelf books and free PDFs](https://bestbookdotcom.gumroad.com/)**
 
 ---
 
